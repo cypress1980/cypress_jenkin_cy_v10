@@ -1,7 +1,7 @@
 {
   "auth": {
-    "username": "ronneliu1",
-    "access_key": "zhHcyKPpkmzh1vuJfM4C"
+    "username": "kailashpathak3",
+    "access_key": "Z2Pdg7CqyGFugXR7Appq"
   },
   "browsers": [
     {
@@ -21,8 +21,9 @@
     }
   ],
   "run_settings": {
-    "cypress_config_file": "./cypress.config.json",
-    "project_name": "My cypress Browser Stack project",
+    "cypress_config_file": "./cypress.config.js",
+    "cypress_version": "10",
+    "project_name": "My cypress Jenkin and Browser Stack project",
     "parallels": "3"
   }
 }
